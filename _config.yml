@@ -1,0 +1,23 @@
+name: ponara
+favicon: null
+layout_spectrum: 0.025844203308224678
+typography_spectrum: 0.1312717730179429
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.96207190817222
+  lightness: 0.642558952793479
+  saturation: 0.8316058963537216
+  rhythmicContrast: 0.21385485655628145
+purpose: []
